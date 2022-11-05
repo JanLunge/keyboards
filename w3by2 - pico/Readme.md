@@ -7,4 +7,4 @@ the bottom panel just gets clicked in, the pico can be screwed into the case wit
 ## Firmware
 copy the contents of the firmware folder onto the pi pico (CircuitPY drive) and add the kmk folder to it as well
 
-![wiring](./wiring.png)
+![wiring](./wiring.jpeg)
