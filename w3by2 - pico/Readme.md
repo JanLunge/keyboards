@@ -7,4 +7,5 @@ the bottom panel just gets clicked in, the pico can be screwed into the case wit
 ## Firmware
 copy the contents of the firmware folder onto the pi pico (CircuitPY drive) and add the kmk folder to it as well
 
-![wiring](./wiring.jpeg)
+![wiring](./wiring-hd.jpg)
+For the wiring the pins for the columns are GP20, GP19, GP18 and the row pins are GP17, GP16 all conveniently placed on one side of the microcontroller
