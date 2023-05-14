@@ -6,3 +6,4 @@ the 2 switches located under the microcontoller are using the hotswap sockets wi
 
 if you get keys sending a keystroke twice then most likely a wire is loose or the connection in the hotswap socket is not secure an easy way to fix this is to remove the switch and bend the legs of the switch about 10 degrees this will be addressed in a future update of the hotswap sockets but is not implemented yet.
 
+for a wiring diagram check the wiring.png image
