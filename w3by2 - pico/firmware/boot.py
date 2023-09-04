@@ -6,7 +6,7 @@ import usb_cdc
 import usb_hid
 
 # This is from the base kmk boot.py
-supervisor.set_next_stack_limit(4096 + 4096)
+supervisor.runtime.next_stack_limit = 4096 + 4096
 
 # If this key is held during boot, don't run the code which hides the storage and disables serial
 # To use another key just count its row and column and use those pins
