@@ -1,12 +1,4 @@
-print("Starting")
-
 import board
-import supervisor
-import board
-import digitalio
-import storage
-import usb_cdc
-import usb_hid
 
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
