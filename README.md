@@ -17,7 +17,7 @@ and on my youtube channel [youtube.com/JanLunge](https://www.youtube.com/JanLung
 ## w3by2 (multiple versions)
 ![w3by2](./demo/w3by2-rotary.png)
 
-## [hotswap sockets](./hotswap-sockets)
+## [hotswap sockets](./hotswap-socket)
 ![mx](./demo/hotswap-mx.png)
 
 ![mx](./demo/hotswap-choc.png)
